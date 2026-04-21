@@ -1,4 +1,4 @@
-# OpenLBJ
+# [OpenLBJ](https://github.com/BI7AQU/OpenLBJ)
 - A LBJ message receiver based on ESP32-PICO-D4 and [Ai-Thinker Ra-01H](https://docs.ai-thinker.com/en/Ra-01H/index.html) (SX1276 RF chip).
 - This project aims to receive the Chinese Railway Train Proximity Alarm (on 821.2375MHz following POCSAG protocol) messages transmitted by on board LBJ systems through CIR.
 - This hardware is designed to be compatible with the **[SX1276_Receive_LBJ](https://github.com/FLN1021/SX1276_Receive_LBJ)** firmware.
